@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ACADEMIA/static/css/main.a124871e.css",
+    "main.js": "/ACADEMIA/static/js/main.eafe0e4e.js",
+    "static/media/back.webp": "/ACADEMIA/static/media/back.93d3f802b480eeabae07.webp",
+    "static/media/awrapper.webp": "/ACADEMIA/static/media/awrapper.031ce77a398171427673.webp",
+    "static/media/bg.webp": "/ACADEMIA/static/media/bg.baa1024a4ae092566a75.webp",
+    "index.html": "/ACADEMIA/index.html",
+    "main.a124871e.css.map": "/ACADEMIA/static/css/main.a124871e.css.map",
+    "main.eafe0e4e.js.map": "/ACADEMIA/static/js/main.eafe0e4e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a124871e.css",
+    "static/js/main.eafe0e4e.js"
+  ]
+}
